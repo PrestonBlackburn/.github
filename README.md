@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTMX, Golang, Microcontrollers**
 
-- 👯 I’m looking to collaborate on **Reef tank IoT projects 🐡**
+- 👊 I’m looking to collaborate on **Reef tank IoT projects 🐡**
 
 - 📝 I sometimes write articles on [https://medium.com/@prestonblckbrn](https://medium.com/@prestonblckbrn)
 
